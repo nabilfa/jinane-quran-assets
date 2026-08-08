@@ -1,0 +1,20 @@
+{
+  "uniform_height": 90,
+  "cursor": {
+    "surah": 114,
+    "ayah": 6
+  },
+  "last_page_index": 8,
+  "reviewed_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "calib_radius_min": 0.98,
+  "calib_radius_max": 2.18
+}
